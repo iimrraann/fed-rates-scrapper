@@ -1,0 +1,113 @@
+2024-12-05 10:46:50,138 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2024/Dec/Kibor-04-Dec-24.pdf. Exiting...
+2024-12-05 10:46:52,707 - INFO - Scraping started for date: 2024-12-05 00:00:00
+2024-12-05 10:46:52,852 - INFO - Data scraping completed. JSON saved.
+2024-12-05 11:01:22,531 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2024/Dec/Kibor-04-Dec-24.pdf. Exiting...
+2024-12-05 11:01:24,951 - INFO - Scraping started for date: 2024-12-05 00:00:00
+2024-12-05 11:01:25,087 - INFO - Data scraping completed. JSON saved.
+2025-02-19 15:32:39,194 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2024/Dec/Kibor-05-Dec-24.pdf. Exiting...
+2025-02-19 15:32:41,560 - INFO - Scraping started for date: 2025-02-13 00:00:00
+2025-02-19 15:32:41,565 - INFO - Scraping started for date: 2025-02-17 00:00:00
+2025-02-19 15:32:41,630 - INFO - Scraping started for date: 2025-02-19 00:00:00
+2025-02-19 15:32:41,757 - INFO - Scraping started for date: 2025-02-18 00:00:00
+2025-02-19 15:32:41,780 - INFO - Scraping started for date: 2025-02-14 00:00:00
+2025-02-19 15:32:43,953 - INFO - Scraping started for date: 2025-02-11 00:00:00
+2025-02-19 15:32:43,982 - INFO - Scraping started for date: 2025-02-10 00:00:00
+2025-02-19 15:32:44,001 - INFO - Scraping started for date: 2025-02-06 00:00:00
+2025-02-19 15:32:44,020 - INFO - Scraping started for date: 2025-02-12 00:00:00
+2025-02-19 15:32:44,060 - INFO - Scraping started for date: 2025-02-07 00:00:00
+2025-02-19 15:32:44,645 - INFO - Scraping started for date: 2025-01-30 00:00:00
+2025-02-19 15:32:44,674 - INFO - Scraping started for date: 2025-02-03 00:00:00
+2025-02-19 15:32:46,380 - INFO - Scraping started for date: 2025-01-31 00:00:00
+2025-02-19 15:32:46,404 - INFO - Scraping started for date: 2025-01-29 00:00:00
+2025-02-19 15:32:46,530 - INFO - Scraping started for date: 2025-02-04 00:00:00
+2025-02-19 15:32:46,953 - INFO - Scraping started for date: 2025-01-28 00:00:00
+2025-02-19 15:32:47,102 - INFO - Scraping started for date: 2025-01-27 00:00:00
+2025-02-19 15:32:48,878 - INFO - Scraping started for date: 2025-01-23 00:00:00
+2025-02-19 15:32:48,936 - INFO - Scraping started for date: 2025-01-24 00:00:00
+2025-02-19 15:32:49,030 - INFO - Scraping started for date: 2025-01-22 00:00:00
+2025-02-19 15:32:49,157 - INFO - Scraping started for date: 2025-01-21 00:00:00
+2025-02-19 15:32:51,229 - INFO - Scraping started for date: 2025-01-17 00:00:00
+2025-02-19 15:32:51,257 - INFO - Scraping started for date: 2025-01-16 00:00:00
+2025-02-19 15:32:51,381 - INFO - Scraping started for date: 2025-01-15 00:00:00
+2025-02-19 15:32:51,429 - INFO - Scraping started for date: 2025-01-14 00:00:00
+2025-02-19 15:32:53,511 - INFO - Scraping started for date: 2025-01-13 00:00:00
+2025-02-19 15:32:53,617 - INFO - Scraping started for date: 2025-01-09 00:00:00
+2025-02-19 15:32:53,679 - INFO - Scraping started for date: 2025-01-08 00:00:00
+2025-02-19 15:32:53,769 - INFO - Scraping started for date: 2025-01-10 00:00:00
+2025-02-19 15:32:54,055 - INFO - Scraping started for date: 2025-01-07 00:00:00
+2025-02-19 15:32:54,414 - INFO - Scraping started for date: 2025-01-20 00:00:00
+2025-02-19 15:32:54,718 - INFO - Scraping started for date: 2024-12-31 00:00:00
+2025-02-19 15:32:55,113 - INFO - Scraping started for date: 2024-12-30 00:00:00
+2025-02-19 15:32:55,914 - INFO - Scraping started for date: 2024-12-26 00:00:00
+2025-02-19 15:32:56,047 - INFO - Scraping started for date: 2025-01-03 00:00:00
+2025-02-19 15:32:56,184 - INFO - Scraping started for date: 2025-01-06 00:00:00
+2025-02-19 15:32:56,213 - INFO - Scraping started for date: 2025-01-02 00:00:00
+2025-02-19 15:32:56,850 - INFO - Scraping started for date: 2024-12-19 00:00:00
+2025-02-19 15:32:57,162 - INFO - Scraping started for date: 2024-12-27 00:00:00
+2025-02-19 15:32:57,534 - INFO - Scraping started for date: 2024-12-18 00:00:00
+2025-02-19 15:32:57,713 - INFO - Scraping started for date: 2024-12-17 00:00:00
+2025-02-19 15:32:58,399 - INFO - Scraping started for date: 2024-12-23 00:00:00
+2025-02-19 15:32:58,428 - INFO - Scraping started for date: 2024-12-24 00:00:00
+2025-02-19 15:32:58,634 - INFO - Scraping started for date: 2024-12-20 00:00:00
+2025-02-19 15:33:00,154 - INFO - Scraping started for date: 2024-12-13 00:00:00
+2025-02-19 15:33:00,260 - INFO - Scraping started for date: 2024-12-16 00:00:00
+2025-02-19 15:33:00,919 - INFO - Scraping started for date: 2024-12-11 00:00:00
+2025-02-19 15:33:00,965 - INFO - Scraping started for date: 2024-12-12 00:00:00
+2025-02-19 15:33:01,011 - INFO - Scraping started for date: 2024-12-10 00:00:00
+2025-02-19 15:33:01,019 - INFO - Scraping started for date: 2024-12-09 00:00:00
+2025-02-19 15:33:02,802 - INFO - Scraping started for date: 2024-12-06 00:00:00
+2025-02-19 15:33:02,936 - INFO - Data scraping completed. JSON saved.
+2025-02-19 15:44:11,527 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2024/Dec/Kibor-06-Dec-24.pdf. Exiting...
+2025-02-19 15:44:13,903 - INFO - Scraping started for date: 2025-02-17 00:00:00
+2025-02-19 15:44:13,906 - INFO - Scraping started for date: 2025-02-18 00:00:00
+2025-02-19 15:44:13,951 - INFO - Scraping started for date: 2025-02-14 00:00:00
+2025-02-19 15:44:13,969 - INFO - Scraping started for date: 2025-02-13 00:00:00
+2025-02-19 15:44:14,138 - INFO - Scraping started for date: 2025-02-19 00:00:00
+2025-02-19 15:44:16,141 - INFO - Scraping started for date: 2025-02-10 00:00:00
+2025-02-19 15:44:16,246 - INFO - Scraping started for date: 2025-02-07 00:00:00
+2025-02-19 15:44:16,385 - INFO - Scraping started for date: 2025-02-12 00:00:00
+2025-02-19 15:44:16,416 - INFO - Scraping started for date: 2025-02-11 00:00:00
+2025-02-19 15:44:16,641 - INFO - Scraping started for date: 2025-02-06 00:00:00
+2025-02-19 15:44:18,347 - INFO - Scraping started for date: 2025-02-04 00:00:00
+2025-02-19 15:44:18,709 - INFO - Scraping started for date: 2025-01-30 00:00:00
+2025-02-19 15:44:18,736 - INFO - Scraping started for date: 2025-02-03 00:00:00
+2025-02-19 15:44:18,826 - INFO - Scraping started for date: 2025-01-31 00:00:00
+2025-02-19 15:44:18,978 - INFO - Scraping started for date: 2025-01-29 00:00:00
+2025-02-19 15:44:19,236 - INFO - Scraping started for date: 2025-01-27 00:00:00
+2025-02-19 15:44:19,787 - INFO - Scraping started for date: 2025-01-23 00:00:00
+2025-02-19 15:44:21,041 - INFO - Scraping started for date: 2025-01-24 00:00:00
+2025-02-19 15:44:21,054 - INFO - Scraping started for date: 2025-01-28 00:00:00
+2025-02-19 15:44:21,389 - INFO - Scraping started for date: 2025-01-22 00:00:00
+2025-02-19 15:44:21,507 - INFO - Scraping started for date: 2025-01-21 00:00:00
+2025-02-19 15:44:21,868 - INFO - Scraping started for date: 2025-01-17 00:00:00
+2025-02-19 15:44:22,010 - INFO - Scraping started for date: 2025-01-15 00:00:00
+2025-02-19 15:44:22,485 - INFO - Scraping started for date: 2025-01-20 00:00:00
+2025-02-19 15:44:22,655 - INFO - Scraping started for date: 2025-01-13 00:00:00
+2025-02-19 15:44:23,503 - INFO - Scraping started for date: 2025-01-16 00:00:00
+2025-02-19 15:44:24,017 - INFO - Scraping started for date: 2025-01-14 00:00:00
+2025-02-19 15:44:24,122 - INFO - Scraping started for date: 2025-01-07 00:00:00
+2025-02-19 15:44:24,434 - INFO - Scraping started for date: 2025-01-10 00:00:00
+2025-02-19 15:44:25,037 - INFO - Scraping started for date: 2025-01-09 00:00:00
+2025-02-19 15:44:25,064 - INFO - Scraping started for date: 2025-01-08 00:00:00
+2025-02-19 15:44:25,783 - INFO - Scraping started for date: 2024-12-30 00:00:00
+2025-02-19 15:44:25,884 - INFO - Scraping started for date: 2024-12-31 00:00:00
+2025-02-19 15:44:26,582 - INFO - Scraping started for date: 2025-01-03 00:00:00
+2025-02-19 15:44:26,634 - INFO - Scraping started for date: 2025-01-06 00:00:00
+2025-02-19 15:44:26,930 - INFO - Scraping started for date: 2025-01-02 00:00:00
+2025-02-19 15:44:27,137 - INFO - Scraping started for date: 2024-12-24 00:00:00
+2025-02-19 15:44:27,969 - INFO - Scraping started for date: 2024-12-27 00:00:00
+2025-02-19 15:44:28,209 - INFO - Scraping started for date: 2024-12-26 00:00:00
+2025-02-19 15:44:28,997 - INFO - Scraping started for date: 2024-12-18 00:00:00
+2025-02-19 15:44:29,016 - INFO - Scraping started for date: 2024-12-17 00:00:00
+2025-02-19 15:44:29,426 - INFO - Scraping started for date: 2024-12-20 00:00:00
+2025-02-19 15:44:29,461 - INFO - Scraping started for date: 2024-12-23 00:00:00
+2025-02-19 15:44:29,487 - INFO - Scraping started for date: 2024-12-19 00:00:00
+2025-02-19 15:44:30,198 - INFO - Scraping started for date: 2024-12-11 00:00:00
+2025-02-19 15:44:30,224 - INFO - Scraping started for date: 2024-12-12 00:00:00
+2025-02-19 15:44:31,401 - INFO - Scraping started for date: 2024-12-16 00:00:00
+2025-02-19 15:44:31,459 - INFO - Scraping started for date: 2024-12-13 00:00:00
+2025-02-19 15:44:31,789 - INFO - Scraping started for date: 2024-12-10 00:00:00
+2025-02-19 15:44:32,484 - INFO - Scraping started for date: 2024-12-09 00:00:00
+2025-02-19 15:44:32,622 - INFO - Data scraping completed. JSON saved.
+2025-02-19 15:47:55,576 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Feb/Kibor-19-Feb-25.pdf. Exiting...
+2025-02-19 15:47:55,736 - INFO - Data scraping completed. JSON saved.
