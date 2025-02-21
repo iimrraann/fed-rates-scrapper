@@ -1,8 +1,10 @@
 name: run new main.py
 
 on:
-  schedule:
-    - cron: '45 14 * * *' 
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
 
 jobs:
   build:
