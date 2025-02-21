@@ -1,4 +1,4 @@
-name: run new main.py
+name: run main.py
 
 on:
   push:
