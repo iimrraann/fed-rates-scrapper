@@ -126,30 +126,21 @@ def save_scraped_data(scraped_data, file_path="scraped_data.json"):
 def main():
     scraped_data, latest_date = load_scraped_data()
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        try:
-            url = "https://www.sbp.org.pk/ecodata/kibor_index.asp"
-            response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-            soup = BeautifulSoup(response.text, "html.parser")
+    url = "https://www.sbp.org.pk/ecodata/kibor_index.asp"
+    response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+    soup = BeautifulSoup(response.text, "html.parser")
 
-            dropdown_year = soup.find("select", {"name": "year"})
-            years = [option.text.strip() for option in dropdown_year.find_all("option")]
+    dropdown_year = soup.find("select", {"name": "year"})
+    years = [option.text.strip() for option in dropdown_year.find_all("option")]
 
-            pdf_links_to_scrape = []
-            for year in years:
-                links, should_exit = get_pdf_links(page, year, latest_date)
-                pdf_links_to_scrape.extend(links)
-                if should_exit:
-                    break
+    pdf_links_to_scrape = []
+    for year in years:
+        links, should_exit = get_pdf_links(page, year, latest_date)
+        pdf_links_to_scrape.extend(links)
+        if should_exit:
+            break
 
-        finally:
-            browser.close()
-            print(latest_date)
-            quit
-
-    # Fetch and process PDFs concurrently
+# Fetch and process PDFs concurrently
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(get_data_from_pdf, link) for link in pdf_links_to_scrape]
         for future in as_completed(futures):
