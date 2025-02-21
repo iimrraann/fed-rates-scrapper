@@ -130,11 +130,10 @@ def main():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         try:
-            page.goto("https://www.sbp.org.pk/ecodata/kibor_index.asp")
-            time.sleep(5)
+            url = "https://www.sbp.org.pk/ecodata/kibor_index.asp"
+            response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+            soup = BeautifulSoup(response.text, "html.parser")
 
-            page_source = page.content()
-            soup = BeautifulSoup(page_source, "html.parser")
             dropdown_year = soup.find("select", {"name": "year"})
             years = [option.text.strip() for option in dropdown_year.find_all("option")]
 
