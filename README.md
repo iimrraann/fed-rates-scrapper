@@ -72,7 +72,7 @@ This will be part of a separate project, making the dataset truly **ready for fi
 
 ---
 
-## **Next Steps**
+## **⏩Next Steps**
 
 This project showcases **end-to-end automation**, from **scraping to scheduling**, making real-world financial data **usable for downstream analytics**.  
 
