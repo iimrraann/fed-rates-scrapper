@@ -20,24 +20,24 @@ I built a fully **automated scraper** that:
 
 ## **🔍 Approach**  
 
-### **1 Navigating & Identifying New Data**  
+### **1. Navigating & Identifying New Data**  
 
 - The script **launches a headless browser** using Playwright.  
 - It selects **year & month dropdowns** dynamically to locate PDFs.  
 - Extracted PDF links are **compared against existing data** to avoid redundant processing.  
 
-### **2️ Downloading & Extracting PDF Data**  
+### **2. Downloading & Extracting PDF Data**  
 
 - Once new PDFs are identified, they are **downloaded and parsed** using `pdfplumber`.  
 - Since SBP occasionally **changes its PDF format**, the extraction logic accounts for inconsistencies.  
 - The extracted tabular data is structured into a **clean JSON format**.  
 
-### **3️ Incremental Updates & Parallel Processing**  
+### **3. Incremental Updates & Parallel Processing**  
 
 - The script **only fetches new data** rather than scraping everything each time.  
 - **Multi-threading** (`ThreadPoolExecutor`) ensures fast processing.  
 
-### **4️ Productionalization via GitHub Actions**  
+### **4. Productionalization via GitHub Actions**  
 
 - The scraper **runs on a defined schedule** (e.g., daily) using **GitHub Actions**.  
 - Logs are maintained for debugging and monitoring failures.  
