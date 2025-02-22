@@ -3,7 +3,7 @@
 
 ## **📌 The Problem**  
 
-The Feb rate called Karachi Interbank Offered Rate (KIBOR), set by the State Bank of Pakistan (SBP), is a crucial benchmark for financial markets. It influences lending rates, stock market behavior, and economic policy decisions. However, SBP publishes this data as **scanned PDFs** on its website, making automated extraction difficult.  
+The Fed rate called Karachi Interbank Offered Rate (KIBOR), set by the State Bank of Pakistan (SBP), is a crucial benchmark for financial markets. It influences lending rates, stock market behavior, and economic policy decisions. However, SBP publishes this data as **scanned PDFs** on its website, making automated extraction difficult.  
 
 This manual format is inefficient for financial analysts, traders, and researchers who need **structured, timely, and historical rate data**.  
 
