@@ -7,7 +7,7 @@ The Feb rate called Karachi Interbank Offered Rate (KIBOR), set by the State Ban
 
 This manual format is inefficient for financial analysts, traders, and researchers who need **structured, timely, and historical rate data**.  
 
-### ** The Solution: Automated Scraping & Processing**  
+### **The Solution: Automated Scraping & Processing**  
 
 I built a fully **automated scraper** that:  
 ✔️ **Navigates SBP’s website** dynamically  
