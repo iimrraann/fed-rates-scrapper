@@ -45,7 +45,7 @@ I built a fully **automated scraper** that:
 
 ---
 
-## **Scaling the Project: Data Cleaning & Usability**  
+## 🚀 **Scaling the Project: Data Cleaning & Usability**  
 
 During the scraping process, **inconsistent PDF formats over time** resulted in **dirty data**. Some files had missing headers, different column structures, or OCR-related issues.  
 
@@ -72,8 +72,10 @@ This will be part of a separate project, making the dataset truly **ready for fi
 
 ---
 
+## **Next Steps**
+
 This project showcases **end-to-end automation**, from **scraping to scheduling**, making real-world financial data **usable for downstream analytics**.  
 
-**Next step:** Integrating a data cleaning pipeline to ensure historical consistency.  
+As the next step in this project, I will integrate a data-cleaning pipeline to ensure historical consistency.  
 
 
