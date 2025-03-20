@@ -187,3 +187,6 @@
 2025-03-19 11:15:07,772 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Mar/Kibor-18-Mar-25.pdf. Exiting...
 2025-03-19 11:15:13,959 - INFO - Scraping started for date: 2025-03-19 00:00:00
 2025-03-19 11:15:14,127 - INFO - Data scraping completed. JSON saved.
+2025-03-20 11:16:18,199 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Mar/Kibor-19-Mar-25.pdf. Exiting...
+2025-03-20 11:16:28,405 - ERROR - Error processing PDF at https://www.sbp.org.pk/ecodata/kibor/2025/Mar/Kibor-20-Mar-25.pdf: HTTPSConnectionPool(host='www.sbp.org.pk', port=443): Read timed out. (read timeout=10)
+2025-03-20 11:16:28,536 - INFO - Data scraping completed. JSON saved.
