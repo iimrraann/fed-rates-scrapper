@@ -272,3 +272,6 @@
 2025-04-20 11:14:33,305 - INFO - Data scraping completed. JSON saved.
 2025-04-21 11:15:30,243 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Apr/Kibor-18-Apr-25.pdf. Exiting...
 2025-04-21 11:15:30,585 - INFO - Data scraping completed. JSON saved.
+2025-04-22 11:15:38,057 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Apr/Kibor-18-Apr-25.pdf. Exiting...
+2025-04-22 11:15:44,603 - INFO - Scraping started for date: 2025-04-21 00:00:00
+2025-04-22 11:15:44,788 - INFO - Data scraping completed. JSON saved.
