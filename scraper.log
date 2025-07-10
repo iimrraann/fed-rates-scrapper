@@ -484,3 +484,5 @@
 2025-07-09 11:17:54,696 - INFO - Scraping started for date: 2025-07-08 00:00:00
 2025-07-09 11:17:55,642 - INFO - Scraping started for date: 2025-07-09 00:00:00
 2025-07-09 11:17:55,808 - INFO - Data scraping completed. JSON saved.
+2025-07-10 11:17:25,243 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Jul/Kibor-09-Jul-25.pdf. Exiting...
+2025-07-10 11:17:25,427 - INFO - Data scraping completed. JSON saved.
