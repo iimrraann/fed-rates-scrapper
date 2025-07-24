@@ -521,3 +521,7 @@
 2025-07-22 11:18:20,437 - INFO - Data scraping completed. JSON saved.
 2025-07-23 11:19:05,541 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Jul/Kibor-22-Jul-25.pdf. Exiting...
 2025-07-23 11:19:05,801 - INFO - Data scraping completed. JSON saved.
+2025-07-24 11:18:29,967 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Jul/Kibor-22-Jul-25.pdf. Exiting...
+2025-07-24 11:18:40,080 - ERROR - Error processing PDF at https://www.sbp.org.pk/ecodata/kibor/2025/Jul/Kibor-23-Jul-25.pdf: HTTPSConnectionPool(host='www.sbp.org.pk', port=443): Read timed out. (read timeout=10)
+2025-07-24 11:18:46,649 - ERROR - Error processing PDF at https://www.sbp.org.pk/ecodata/kibor/2025/Jul/Kibor-24-Jul-25.pdf: HTTPSConnectionPool(host='www.sbp.org.pk', port=443): Read timed out.
+2025-07-24 11:18:46,785 - INFO - Data scraping completed. JSON saved.
