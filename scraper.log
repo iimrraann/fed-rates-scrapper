@@ -602,3 +602,6 @@
 2025-08-27 11:30:11,579 - INFO - Scraping started for date: 2025-08-27 00:00:00
 2025-08-27 11:30:19,323 - ERROR - Error processing PDF at https://www.sbp.org.pk/ecodata/kibor/2025/Aug/Kibor-26-Aug-25.pdf: HTTPSConnectionPool(host='www.sbp.org.pk', port=443): Read timed out.
 2025-08-27 11:30:19,460 - INFO - Data scraping completed. JSON saved.
+2025-08-28 11:15:56,711 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Aug/Kibor-27-Aug-25.pdf. Exiting...
+2025-08-28 11:16:03,284 - INFO - Scraping started for date: 2025-08-28 00:00:00
+2025-08-28 11:16:03,493 - INFO - Data scraping completed. JSON saved.
