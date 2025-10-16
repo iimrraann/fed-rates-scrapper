@@ -736,3 +736,6 @@
 2025-10-15 11:16:37,271 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Oct/Kibor-14-Oct-25.pdf. Exiting...
 2025-10-15 11:16:40,199 - INFO - Scraping started for date: 2025-10-15 00:00:00
 2025-10-15 11:16:40,406 - INFO - Data scraping completed. JSON saved.
+2025-10-16 11:16:36,848 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2025/Oct/Kibor-15-Oct-25.pdf. Exiting...
+2025-10-16 11:16:39,995 - INFO - Scraping started for date: 2025-10-16 00:00:00
+2025-10-16 11:16:40,175 - INFO - Data scraping completed. JSON saved.
