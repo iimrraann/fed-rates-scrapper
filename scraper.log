@@ -960,3 +960,5 @@
 2026-01-08 11:20:42,138 - INFO - Scraping started for date: 2026-01-08 00:00:00
 2026-01-08 11:20:44,509 - INFO - Scraping started for date: 2026-01-07 00:00:00
 2026-01-08 11:20:44,680 - INFO - Data scraping completed. JSON saved.
+2026-01-09 11:19:11,764 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2026/Jan/Kibor-08-Jan-26.pdf. Exiting...
+2026-01-09 11:19:11,947 - INFO - Data scraping completed. JSON saved.
