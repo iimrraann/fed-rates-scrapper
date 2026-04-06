@@ -1301,3 +1301,17 @@
 2026-04-05 11:29:15,965 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-19-Mar-26.pdf
 2026-04-05 11:29:16,155 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-18-Mar-26.pdf
 2026-04-05 11:29:16,299 - INFO - Data scraping completed. JSON saved.
+2026-04-06 11:48:35,983 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-17-Mar-26.pdf. Exiting...
+2026-04-06 11:48:36,343 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-31-Mar-26.pdf
+2026-04-06 11:48:36,856 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Apr/Kibor-06-Apr-26.pdf
+2026-04-06 11:48:36,858 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Apr/Kibor-02-Apr-26.pdf
+2026-04-06 11:48:36,876 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Apr/Kibor-01-Apr-26.pdf
+2026-04-06 11:48:36,999 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Apr/Kibor-03-Apr-26.pdf
+2026-04-06 11:48:37,171 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-30-Mar-26.pdf
+2026-04-06 11:48:37,676 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-26-Mar-26.pdf
+2026-04-06 11:48:37,731 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-27-Mar-26.pdf
+2026-04-06 11:48:37,822 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-25-Mar-26.pdf
+2026-04-06 11:48:38,123 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-19-Mar-26.pdf
+2026-04-06 11:48:38,574 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-18-Mar-26.pdf
+2026-04-06 11:48:39,301 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Mar/Kibor-24-Mar-26.pdf
+2026-04-06 11:48:39,442 - INFO - Data scraping completed. JSON saved.
