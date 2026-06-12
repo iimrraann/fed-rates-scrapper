@@ -2474,3 +2474,32 @@
 2026-06-10 14:21:54,097 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/May/Kibor-05-May-26.pdf
 2026-06-10 14:21:54,192 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/May/Kibor-04-May-26.pdf
 2026-06-10 14:21:54,340 - INFO - Data scraping completed. JSON saved.
+2026-06-12 14:10:21,662 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2026/Apr/Kibor-30-Apr-26.pdf. Exiting...
+2026-06-12 14:10:23,484 - INFO - Scraping started for date: 2026-06-09 00:00:00
+2026-06-12 14:10:23,545 - INFO - Scraping started for date: 2026-06-08 00:00:00
+2026-06-12 14:10:23,613 - INFO - Scraping started for date: 2026-06-11 00:00:00
+2026-06-12 14:10:23,761 - INFO - Scraping started for date: 2026-06-12 00:00:00
+2026-06-12 14:10:23,847 - INFO - Scraping started for date: 2026-06-10 00:00:00
+2026-06-12 14:10:24,491 - INFO - Scraping started for date: 2026-06-03 00:00:00
+2026-06-12 14:10:24,521 - INFO - Scraping started for date: 2026-06-05 00:00:00
+2026-06-12 14:10:25,197 - INFO - Scraping started for date: 2026-06-04 00:00:00
+2026-06-12 14:10:25,342 - INFO - Scraping started for date: 2026-05-29 00:00:00
+2026-06-12 14:10:25,470 - INFO - Scraping started for date: 2026-06-02 00:00:00
+2026-06-12 14:10:25,625 - INFO - Scraping started for date: 2026-05-25 00:00:00
+2026-06-12 14:10:25,782 - INFO - Scraping started for date: 2026-06-01 00:00:00
+2026-06-12 14:10:25,811 - INFO - Scraping started for date: 2026-05-22 00:00:00
+2026-06-12 14:10:26,163 - INFO - Scraping started for date: 2026-05-21 00:00:00
+2026-06-12 14:10:26,210 - INFO - Scraping started for date: 2026-05-19 00:00:00
+2026-06-12 14:10:26,388 - INFO - Scraping started for date: 2026-05-15 00:00:00
+2026-06-12 14:10:26,889 - INFO - Scraping started for date: 2026-05-18 00:00:00
+2026-06-12 14:10:27,157 - INFO - Scraping started for date: 2026-05-14 00:00:00
+2026-06-12 14:10:27,190 - INFO - Scraping started for date: 2026-05-13 00:00:00
+2026-06-12 14:10:27,356 - INFO - Scraping started for date: 2026-05-20 00:00:00
+2026-06-12 14:10:27,621 - INFO - Scraping started for date: 2026-05-08 00:00:00
+2026-06-12 14:10:28,716 - INFO - Scraping started for date: 2026-05-05 00:00:00
+2026-06-12 14:10:29,432 - INFO - Scraping started for date: 2026-05-06 00:00:00
+2026-06-12 14:10:29,459 - INFO - Scraping started for date: 2026-05-12 00:00:00
+2026-06-12 14:10:29,605 - INFO - Scraping started for date: 2026-05-11 00:00:00
+2026-06-12 14:10:30,971 - INFO - Scraping started for date: 2026-05-04 00:00:00
+2026-06-12 14:10:33,301 - INFO - Scraping started for date: 2026-05-07 00:00:00
+2026-06-12 14:10:33,471 - INFO - Data scraping completed. JSON saved.
