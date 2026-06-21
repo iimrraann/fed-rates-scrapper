@@ -2538,3 +2538,10 @@
 2026-06-20 12:26:39,710 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-15-Jun-26.pdf
 2026-06-20 12:26:39,741 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-17-Jun-26.pdf
 2026-06-20 12:26:39,890 - INFO - Data scraping completed. JSON saved.
+2026-06-21 13:04:44,382 - INFO - Encountered older or already-scraped link: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-12-Jun-26.pdf. Exiting...
+2026-06-21 13:04:44,703 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-15-Jun-26.pdf
+2026-06-21 13:04:44,706 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-16-Jun-26.pdf
+2026-06-21 13:04:44,719 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-18-Jun-26.pdf
+2026-06-21 13:04:44,724 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-17-Jun-26.pdf
+2026-06-21 13:04:44,786 - WARNING - Failed to fetch PDF: https://www.sbp.org.pk/ecodata/kibor/2026/Jun/Kibor-19-Jun-26.pdf
+2026-06-21 13:04:44,927 - INFO - Data scraping completed. JSON saved.
